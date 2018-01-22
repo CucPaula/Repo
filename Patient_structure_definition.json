@@ -38,7 +38,7 @@
     }
   ],
   "description": "Base StructureDefinition for Patient Resource",
-  "purpose": "Tracking patient is the center of the healthcare process.",
+  "purpose": "Tracking patient Paula is the center of the healthcare process.",
   "fhirVersion": "3.0.0",
   "mapping": [
     {
